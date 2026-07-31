@@ -1,0 +1,4 @@
+programa,versao,descricao
+BLAST+,2.X,Busca e comparação de sequências biológicas.
+BUSCO,5.X,Avaliação da completude de genomas e transcriptomas.
+FastQC,X,Avaliação da qualidade de arquivos FASTQ.
