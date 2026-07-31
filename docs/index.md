@@ -8,15 +8,39 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
 <div class="grid cards" markdown>
 
--   :material-text-box-edit-outline:{ .lg .middle } __Formulário de cadastro__
+-   :material-text-box-edit-outline:{ .lg .middle } __Cadastro__
 
     ---
 
-    Formulário para cadastramento no servidor.
+    Formulário para cadastro de novos usuários.
 
     :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
 
--   :material-book-open-variant:{ .lg .middle } __Manual do usuário__
+-   :material-text-box-edit-outline:{ .lg .middle } __Recadastro__
+
+    ---
+
+    Formulário para recadastro de usuários ativos. 
+
+    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSeZxk0WP0mR7gRM2IbDLFBFelFPWnYIxfsUsHgtQJLfUeygTQ/viewform?usp=dialog){ target="_blank" rel="noopener"}
+
+-   :material-text-box-edit-outline:{ .lg .middle } __Instalação de Programas__
+
+    ---
+
+    Formulário para solicitação de instalação de novos programas. 
+
+    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfZ5zsl_E3vpWx2ful0X4_U46UMaTYbuObP8NPsoOYto2CPVA/viewform?usp=dialog){ target="_blank" rel="noopener"}
+
+-   :material-text-box-edit-outline:{ .lg .middle } __Criação de Bancos de Dados__
+
+    ---
+
+    Formulário para solicitação de download ou criação de bancos de dados públicos.
+    
+    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfQYC5F2ncerhxp2n8aAtJei2KxS7Jf5iSQsgDsJxbbWRm0-A/viewform?usp=dialog){ target="_blank" rel="noopener"}
+
+-   :material-book-open-variant:{ .lg .middle } __Manual do Usuário__
 
     ---
 
@@ -31,6 +55,22 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
     Diretrizes para uso eficiente do servidor.
 
     :octicons-arrow-right-24: [<u>Acessar</u>](boas_praticas/index_boas_praticas.md)
+
+-   :material-package-variant:{.lg .middle } __Softwares__
+
+    ---
+
+    Lista de programas e pacotes disponíveis para utilização dos usuários. 
+
+    :octicons-arrow-right-24: [<u>Acessar</u>](softwares/index_softwares.md)
+
+-   :material-database:{.lg .middle } __Bancos de Dados__
+
+    ---
+
+    Lista de bancos de dados disponíveis para utilização dos usuários. 
+
+    :octicons-arrow-right-24: [<u>Acessar</u>](bancos_de_dados/index_bancos_de_dados.md)
 
 </div>
 
