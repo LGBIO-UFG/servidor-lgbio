@@ -28,7 +28,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     ---
 
-    Diretrizes para uso saudável e eficiente do servidor.
+    Diretrizes para uso eficiente do servidor.
 
     :octicons-arrow-right-24: [<u>Acessar</u>](boas_praticas/index_boas_praticas.md)
 
@@ -37,10 +37,10 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 ## :material-account-group: Equipe de manutenção
 
 !!! quote ""
-    Profa. Renata de Oliveira Didas (UFG)  
-    Prof. Rewther Nunes (UEG)  
-    Héctor Antônio Assunção Romão (Doutorando PPGBM)  
-    Jomal Rodrigues Barbosa Filho (Técnico do LGBio)
+    Profa. Renata de Oliveira Dias (UFG)  
+    Prof. Rhewter Nunes (UEG)  
+    Me. Héctor Antônio Assunção Romão (Doutorando PPGBM)  
+    Dr. Jomal Rodrigues Barbosa Filho (Técnico do LGBio)
 
 ## :material-handshake: Apoio
 

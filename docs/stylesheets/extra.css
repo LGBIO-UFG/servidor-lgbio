@@ -29,7 +29,7 @@
 
 /* Logo maior e melhor posicionada */
 .md-header__button.md-logo {
-  margin: 0.2rem 0.4rem 0.2rem 0;
+  margin: 0.2rem 0.4rem 0.2rem 0;  /*margin: 0.2rem 0.4rem 0.2rem 0;*/
   padding: 0;
 }
 
