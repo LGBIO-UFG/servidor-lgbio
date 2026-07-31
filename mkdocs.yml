@@ -1,7 +1,7 @@
 site_name: SERVIDOR LGBIO
 site_url: https://example.com
-repo_url: https://github.com/jomalfilho/teste_lgbio
-repo_name: jomalfilho/teste_lgbio
+repo_url: https://github.com/LGBIO-UFG/servidor-lgbio
+repo_name: LGBIO-UFG/servidor-lgbio
 edit_uri: edit/main/docs/
 use_directory_urls: false
 
