@@ -25,6 +25,7 @@
   --md-primary-fg-color--dark:        #0d1f1c;
   --md-accent-fg-color:               #C5DD6D;
   --md-accent-fg-color--transparent:  rgba(197, 221, 109, 0.1);
+  --md-typeset-a-color:               #E0FE8D; /* Verde Lime Palha bem contrastante para links */
 }
 
 /* Logo maior e melhor posicionada */
