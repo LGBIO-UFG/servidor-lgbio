@@ -74,14 +74,6 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
 </div>
 
-## :material-account-group: Equipe de manutenção
-
-!!! quote ""
-    Profa. Renata de Oliveira Dias (UFG)  
-    Prof. Rhewter Nunes (UEG)  
-    Me. Héctor Antônio Assunção Romão (Doutorando PPGBM)  
-    Dr. Jomal Rodrigues Barbosa Filho (Técnico do LGBio)
-
 ## :material-handshake: Apoio
 
 <p style="text-align: center;">
