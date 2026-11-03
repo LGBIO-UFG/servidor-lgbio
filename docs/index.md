@@ -85,7 +85,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 ## :material-handshake: Apoio
 
 <p style="text-align: center;">
-O Servidor de Bioinformática do Laboratório de Genética e Biodiversidade (LGBio) da UFG foi adquirido e é mantido graças aos recursos do INCT EECBio.   
+O Servidor de Bioinformática do Laboratório de Genética e Biodiversidade (LGBio) da UFG foi adquirido e é mantido graças aos recursos do INCT/EECBio.   
 </p>
 
 <p align="center">
