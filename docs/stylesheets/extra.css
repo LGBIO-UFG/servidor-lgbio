@@ -35,7 +35,7 @@
 
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 2.4rem; /* 2.4rem */
+  height: 3rem; /* 2.4rem */
   width: auto;
 }
 
@@ -58,8 +58,14 @@
   display: flex !important;
 }
 
-.md-sidebar--primary {
+/*.md-sidebar--primary {
   display: none;
+}*/
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    display: none;
+  }
 }
 
 /* Em telas pequenas, reduz a logo pra caber junto do hamburger */
@@ -153,4 +159,34 @@
 /* Layout dos cards usando grid nativo do Material */
 .md-typeset .grid.cards > ul > li {
   text-align: center;
+}
+
+/* ============================================================
+   Ajuste da altura do Header e reposicionamento dos elementos
+   ============================================================ */
+
+/* 1. Aumenta a altura total da barra superior */
+.md-header {
+  height: auto;
+  min-height: 3rem; /* Ajuste a altura total do cabeçalho conforme necessário */
+}
+
+/* 2. Garante que os itens internos (logo, busca, dark mode) fiquem centralizados verticalmente */
+.md-header__inner {
+  height: 100%;
+  align-items: center;
+  padding-top: 0.0rem;
+  padding-bottom: 0.0rem;
+}
+
+/* 3. Posiciona a barra de abas (Início / Contato) na linha inferior */
+.md-tabs {
+  margin-top: 0.0rem;
+}
+
+/* 4. Alinha os textos "Início" e "Contato" logo abaixo do ícone de tema/logo */
+.md-tabs__list {
+  display: flex;
+  margin-left: 0.8rem; /* Aumente este valor (ex: 3rem ou 4rem) para empurrar os links mais para a direita, embaixo do botão de tema */
+  padding: 0;
 }
