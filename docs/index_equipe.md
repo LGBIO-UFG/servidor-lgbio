@@ -1,6 +1,7 @@
-# Equipe
+# __Equipe de Manutenção__
+---
 
-Conheça a equipe que mantém o **Servidor do LGBio** ativo!
+Conheça a equipe que mantém o Servidor do LGBio ativo!
 
 ## :material-account-star: Equipe de Manutenção
 
@@ -32,3 +33,11 @@ Conheça a equipe que mantém o **Servidor do LGBio** ativo!
     [:material-school: <u>Lattes</u>](http://lattes.cnpq.br/6926320216897340){ target="_blank" rel="noopener"}
 
 </div>
+
+<p align="right">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+</p>
+
+<p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
+© 2026 LGBio • Universidade Federal de Goiás
+</p>
