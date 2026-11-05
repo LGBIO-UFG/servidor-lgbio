@@ -1,4 +1,124 @@
-programa,versao,descricao
-BLAST+,2.X,Busca e compara��o de sequ�ncias biol�gicas.
-BUSCO,5.X,Avalia��o da completude de genomas e transcriptomas.
-FastQC,X,Avalia��o da qualidade de arquivos FASTQ.
+programa,versao,descricao,observação,repositorio
+ABySS,4.2.1,"O ABySS é um montador de sequências de novo, desenvolvido para leituras curtas de extremidades pareadas (paired-end) e genomas de todos os tamanhos.","Para conferir todas as ferramentas do pacote, utilize: ""compgen -c | grep -i '^abyss' | sort -u""",https://github.com/BirolLab/abyss
+ALTER,1.3.4-3,ALTER significa ALignment Transformation EnviRonment (Ambiente de Transformação de Alinhamentos) e consiste em um conjunto de componentes de software destinados à conversão entre diferentes formatos de arquivos de alinhamento múltiplo de sequências (Multiple Sequence Alignment).,"Comando principal: ""alter-sequence-alignment <options>""",https://github.com/sing-group/ALTER
+AMAP,2.2,Ferramenta de linha de comando em bioinformática usada para realizar alinhamento múltiplo de sequências proteicas.,"Comando principal: ""amap <options>""",https://github.com/mes5k/amap-align?tab=readme-ov-file
+AUGUSTUS,3.4.0,O AUGUSTUS é um programa para encontrar genes e suas estruturas em um ou mais genomas.,"Comando principal: """"augustus -paramlist""",https://github.com/Gaius-Augustus/Augustus
+Barbell,0.3.3,Ferramenta para análise e modelagem de redes estruturais e biomoleculares.,"Comando principal: ""barbell <options>""",https://github.com/
+Beagle,5.1,"Pacote de software para imputação de genótipos, inferência de fase de haplótipos e associação genética.","Comando principal: ""beagle <options>""",https://faculty.washington.edu/browning/beagle/beagle.html
+BEDtools,2.29.1,"Conjunto poderoso de ferramentas para manipulação e análise de intervalos genômicos (Formatos BED, BAM, VCF, GFF).","Comando principal: ""bedtools <options>""",https://github.com/arq5x/bedtools2
+Bowtie 2,2.4.5,Ferramenta ultrafasta e eficiente em memória para alinhamento de sequências de DNA curtas a genomas de referência.,"Comando principal: ""bowtie2 <options>""",https://github.com/BenLangmead/bowtie2
+Bowtie,1.2.3,Alinhador ultrafast e de baixo consumo de memória para leituras curtas de sequências de DNA.,"Comando principal: ""bowtie <options>""",https://github.com/BenLangmead/bowtie
+BWA,0.7.17-r1188,Burrows-Wheeler Aligner (BWA) é um pacote de software para mapeamento de sequências de DNA contra genomas de referência de grande porte.,"Comando principal: ""bwa <options>""",https://github.com/lh3/bwa
+cdbfasta,0.99,Ferramenta para indexação e recuperação rápida de registros de arquivos FASTA e FASTQ.,"Comando principal: ""cdbfasta <options>""",https://github.com/gpertea/cdbfasta
+Clustal Omega,1.2.4,"Clustal Omega é uma ferramenta de alinhamento múltiplo de sequências (MSA) de alta velocidade para DNA, RNA e proteínas.","Comando principal: ""clustalo <options>""",http://www.clustal.org/omega/
+ClustalW,2.1,Ferramenta clássica para alinhamento múltiplo de sequências de nucleotídeos ou aminoácidos.,"Comando principal: ""clustalw <options>""",http://www.clustal.org/clustal2/
+DIALIGN-TX,1.0.2-12,Segmento atualizado do programa DIALIGN para alinhamento múltiplo de sequências de DNA ou proteínas baseado em segmentos.,"Comando principal: ""dialign-tx <options>""",https://dialign-tx.sourceforge.net/
+DIALIGN,2.2.1-10,Ferramenta de alinhamento múltiplo de sequências que compara segmentos sem penalidade de lacunas (gaps) globais.,"Comando principal: ""dialign2-2 <options>""",https://dialign.lhasa.uni-bielefeld.de/
+DIAMOND,0.9.30.131,Alinhador altamente eficiente e ultrarrápido para sequências de proteínas e tradução de DNA contra bancos de proteínas.,"Comando principal: ""diamond <options>""",https://github.com/bbuchfink/diamond
+EMBOSS,6.6.0.0,EMBOSS (European Molecular Biology Open Software Suite) é um pacote integrado de ferramentas gratuitas para análise de dados moleculares.,"Para conferir todas as ferramentas do pacote, digite “wossname” e aperte enter. ",https://emboss.sourceforge.net/
+Exonerate,2.4.0,Ferramenta versátil para alinhamento de sequências que permite mapear sequências de DNA e proteínas a genomas.,"Comando principal: ""exonerate <options>""",https://github.com/enns/exonerate
+FastQC,0.11.9,Ferramenta de controle de qualidade para dados de sequenciamento de alto rendimento (High-Throughput Sequencing).,"Comando principal: ""fastqc <options>""",https://github.com/s-andrews/FastQC
+FSA,1.15.9,Fast Statistical Alignment (FSA) é um alinhador múltiplo de sequências baseado em modelos estatísticos probabilísticos.,"Comando principal: ""fsa <options>""",https://github.com/kbradnam/fsa
+GEMMA,0.98.1,Genome-wide Efficient Mixed Model Association (GEMMA) é uma ferramenta para estudos de associação genômica ampla (GWAS).,"Comando principal: ""gemma <options>""",https://github.com/genetics-statistics/GEMMA
+GenomeTools,1.6.1,Conjunto versátil de ferramentas de software para análise e manipulação de genomas e arquivos GFF3.,"Comando principal: ""gt <options>""",http://genometools.org/
+GenomeScope 2.0,-,"Estimativa de tamanho de genoma, heterozigosidade e repetições a partir de perfis de k-meros.","Comando principal: ""genomescope2 <options>""",https://github.com/tbenavi1/genomescope2.0
+HMMER,3.3,Pacote de software para análise de sequências biológicas utilizando modelos ocultos de Markov (HMMs).,"Comandos principais: ""hmmscan"", ""hmmsearch"", ""hmmbuild""",http://hmmer.org/
+HyPhy (MPI),2.5.1,Versão paralela com suporte a MPI do programa HyPhy para hipóteses de evolução molecular em clusters de computação.,"Comando principal: ""HYPHYMPI <options>""",https://github.com/veg/hyphy
+Infernal,-,INFERNAL (INference of RNA ALignment) busca por homólogos de sequências e estruturas secundárias de RNA em bancos de dados.,"Comandos principais: ""cmscan"", ""cmsearch"", ""cmbuild""",http://eddylab.org/infernal/
+IQ-TREE,1.6.12,Software eficiente para inferência filogenética por Máxima Verossimilhança com suporte a seleção de modelos.,"Comando principal: ""iqtree <options>""",https://iqtree.github.io/
+IQ-TREE 2, 2.2.0,Software eficiente para inferência filogenética por Máxima Verossimilhança com suporte a seleção de modelos.,"Comando principal: ""iqtree2 <options>""",https://iqtree.github.io/
+IQ-TREE 3,3.0.1,Software eficiente para inferência filogenética por Máxima Verossimilhança com suporte a seleção de modelos.,"Comando principal: ""iqtree3 <options>""",https://iqtree.github.io/
+Jellyfish,2.3.0,Ferramenta rápida e eficiente em memória para contagem de k-meros em sequências de DNA.,"Comando principal: ""jellyfish <options>""",https://github.com/gmarcais/Jellyfish
+jModelTest,2.1.10,Ferramenta para a seleção estatística de modelos de substituição de nucleotídeos para análises filogenéticas.,"Comando principal: ""jmodeltest <options>""",https://github.com/darwin-cibio/jmodeltest2
+Kalign,2.04,Alinhador múltiplo de sequências de DNA e proteínas ultrarrápido projetado para grandes conjuntos de dados.,"Comando principal: ""kalign <options>""",https://github.com/TimoLassmann/kalign
+MAFFT,v7.503,Programa popular de alinhamento múltiplo de sequências de nucleotídeos ou aminoácidos de alta velocidade e precisão.,"Comando principal: ""mafft <options>""",https://mafft.cbrc.jp/alignment/software/
+MAQ,0.7.1,Mapping and Assembly with Qualities (MAQ) é um alinhador legado de leituras curtas contra genomas de referência.,"Comando principal: ""maq <options>""",http://maq.sourceforge.net/
+Mauve,2.4.0,Sistema de alinhamento múltiplo de genomas completos para identificar rearranjos cromossômicos e rearranjos ortólogos.,"Comando principal: ""mauveAligner <options>""",https://darlinglab.org/mauve/mauve.html
+MCL,1.14,Markov Cluster Algorithm (MCL) é um algoritmo de agrupamento não supervisionado baseado em simulação de fluxos em grafos.,"Comando principal: ""mcl <options>""",https://micans.org/mcl/
+Minimap2,2.24-r1122,Alinhador versátil para sequências longas de DNA/RNA (PacBio/Nanopore) e montagens contra genomas de referência.,"Comando principal: ""minimap2 <options>""",https://github.com/lh3/minimap2
+mothur,1.42.1,Pacote de software completo para processamento e análise de dados de microbioma e amplicons de 16S/18S rRNA.,"Comando principal: ""mothur <options>""",https://github.com/mothur/mothur
+MUMmer,4.0.0beta2,Sistema versátil para alinhamento rápido de genomas inteiros e comparação de grandes sequências.,"Comandos principais: ""nucmer <options>"", ""mummer <options>""",https://github.com/mummer4/mummer
+MUMmer (versão pelo bioconda),3.23,Sistema versátil para alinhamento rápido de genomas inteiros (Versão 3 via Conda).,"Comandos principais: ""conda run nucmer <options>"", ""conda run mummer <options>""",https://github.com/mummer4/mummer
+MUSCLE,3.8.1551,Multiple Sequence Comparison by Log-Expectation é um software popular para alinhamento de sequências de proteínas e nucleotídeos.,"Comando principal: ""muscle <options>""",https://www.drive5.com/muscle/
+MUSTANG,3.2.3,Multiple Structural Alignment Algorithm é uma ferramenta para alinhamento estrutural de proteínas em formato PDB.,"Comando principal: ""mustang <options>""",https://github.com/aroth/mustang
+NCBI BLAST+,2.12.0+,"Suíte oficial do NCBI contendo ferramentas essenciais como blastn, blastp, blastx, tblastn e makeblastdb.","Comandos principais: ""blastn"", ""blastp"", ""makeblastdb""",https://blast.ncbi.nlm.nih.gov/
+NCBI Entrez Direct (EDirect),-,"Entrez Direct (EDirect) permite acesso por linha de comando às bases de dados do NCBI (PubMed, GenBank, etc.).","Comandos principais: ""esearch"", ""efetch"", ""elink""",https://www.ncbi.nlm.nih.gov/books/NBK179288/
+NCOILS,2002-7,Programa para predição de regiões de hélice superenrolada (coiled-coil) em sequências de aminoácidos.,"Comando principal: ""ncoils <options>""",https://github.com/victor-torres/ncoils
+EPI2ME Labs Launcher,-,Interface e ambiente de execução para fluxos de trabalho de análise de dados de sequenciamento Oxford Nanopore.,"Comando principal: ""epi2melabs-launcher <options>""",https://github.com/epi2me-labs
+Guppy (Oxford Nanopore),6.5.7,Basecaller de alta performance baseado em redes neurais para dados de sequenciamento Oxford Nanopore.,"Comando principal: ""guppy_basecaller <options>""",https://community.nanoporetech.com/
+PAML,4.9j,Phylogenetic Analysis by Maximum Likelihood é um pacote para análises filogenéticas de sequências de DNA ou proteínas.,"Comandos principais: ""codeml"", ""baseml""",http://abacus.gene.ucl.ac.uk/software/paml.html
+PHYLIP,1:3.697,PHYLogeny Inference Package é um conjunto completo de programas para inferência de árvores filogenéticas.,"Comando principal: ""dnaparser"", ""proml"", ""neighbor""",https://evolution.genetics.washington.edu/phylip.html
+PhyML,3:3.3.20190909-1,Ferramenta para inferência de árvores filogenéticas por Máxima Verossimilhança a partir de alinhamentos.,"Comando principal: ""phyml <options>""",https://github.com/stephaneguindon/phyml
+Picard Tools,2.18.25,Conjunto de ferramentas baseadas em Java para manipulação e análise de arquivos no formato SAM/BAM/CRAM.,"Comando principal: ""PicardCommandLine <command>""",https://broadinstitute.github.io/picard/
+Pilon,1.23,Ferramenta para correção e melhoria de montagens genômicas usando leituras curtas de alta qualidade.,"Comando principal: ""pilon <options>""",https://github.com/broadinstitute/pilon
+PLINK 2,2.0.0-a.7.1LM,Ferramenta para genética de populações e análise de associação genômica ampla (GWAS) extremamente rápida.,"Comando principal: ""plink2 <options>""",https://www.cog-genomics.org/plink/2.0/
+POA,1.0.0,Partial Order Alignment é uma ferramenta para alinhamento rápido de sequências e geração de consenso baseado em grafos.,"Comando principal: ""poa <options>""",https://github.com/poa-dev/poa
+PRANK,v.170427,Probabilistic Alignment Kit é um alinhador múltiplo de sequências ciente de eventos de inserção/deleção (indels).,"Comando principal: ""prank <options>""",https://arvestad.github.io/prank-msa/
+Primer3,2.4.0,Ferramenta amplamente utilizada para desenho automatizado de primers de PCR e sondas de hibridização.,"Comando principal: ""primer3_core <options>""",https://github.com/primer3-org/primer3
+Probalign,1.4,Alinhador múltiplo de sequências de proteínas baseado em probabilidades posteriores de partição de matrizes.,"Comando principal: ""probalign <options>""",https://github.com/aroth/probalign
+ProbCons,1.12,Ferramenta de alinhamento múltiplo de sequências de proteínas baseada em modelos de inconsistência probabilística.,"Comando principal: ""probcons <options>""",https://github.com/aroth/probcons
+ProDA,1.0,Protein Domain Alignment (ProDA) é uma ferramenta para alinhamento de sequências com domínios repetidos ou arranjos em blocos.,"Comando principal: ""proda <options>""",http://proda.stanford.edu/
+progressiveMauve,1.2.0,Algoritmo aprimorado da suíte Mauve para alinhamento múltiplo de genomas com variações estruturais.,"Comando principal: ""progressiveMauve <options>""",https://darlinglab.org/mauve/mauve.html
+ProtTest,3.4.2,Ferramenta para a seleção do modelo de evolução de proteínas mais adequado para análises filogenéticas.,"Comando principal: ""prottest <options>""",https://github.com/darwin-cibio/prottest3
+purge_dups,1.2.5,Ferramenta para identificação e remoção de contigs duplicados de haplótipos em montagens genômicas primárias.,"Comando principal: ""purge_dups <options>""",https://github.com/dfsp-biopack/purge_dups
+QBrew,0.4.1,Aplicativo auxiliar de cálculo e receitas para fabricação artesanal de cerveja (utilitário do repositório Linux).,"Comando principal: ""qbrew <options>""",https://www.usabel.org.uk/qbrew/
+Quarto,1.9.37,"Sistema de publicação científica e técnica de código aberto para criar documentos, relatórios, apresentações e sites.","Comando principal: ""quarto <options>""",https://github.com/quarto-dev/quarto-cli
+RagTag,2.1.0,Conjunto de ferramentas de software para estruturação e andaimento (scaffolding) de genomas orientado por referência.,"Comando principal: ""ragtag.py <command>""",https://github.com/malonge/RagTag
+RAxML,8.2.12,Randomized Axelerated Maximum Likelihood (RAxML) é um software para inferência filogenética por Máxima Verossimilhança.,"Comando principal: ""raxmlHPC <options>""",https://github.com/stamatak/standard-RAxML
+samblaster,0.1.24,Ferramenta rápida para marcar duplicatas de PCR e extrair leituras desalinhadas ou divididas em arquivos SAM.,"Comando principal: ""samblaster <options>""",https://github.com/GregoryFaust/samblaster
+SAMtools,1.22,"Conjunto essencial de utilitários para manipulação de alinhamentos nos formatos SAM, BAM e CRAM.","Comando principal: ""samtools <command>""",https://github.com/samtools/samtools
+seqtk,1.3-1,Ferramenta ultrarrápida e leve para processamento e manipulação de sequências nos formatos FASTA e FASTQ.,"Comando principal: ""seqtk <command>""",https://github.com/lh3/seqtk
+sim4,0.0.20121010-5,Programa para alinhamento de sequências de expressas (cDNA/mRNA) contra DNA genômico considerando íntrons.,"Comando principal: ""sim4 <options>""",https://dors.hu-berlin.de/
+T-Coffee,12.00.7,Tree-based Consistency Objective Function for alignment Evaluation é uma suíte flexível de alinhamento múltiplo.,"Comando principal: ""t_coffee <options>""",https://github.com/cbcrg/tcoffee
+Glimmer,3.02b,Sistema Glimmer (Gene Locator and Integrated Markov Modeler) para identificação de genes codificantes em bactérias/vírus.,"Comando principal: ""glimmer3 <options>""",https://ccb.jhu.edu/software/glimmer/
+TM-align,-,Algoritmo para alinhamento de estruturas tridimensionais de proteínas e cálculo do escore TM-score.,"Comando principal: ""TMalign <options>""",https://zhanggroup.org/TM-align/
+TransRate Tools,1.0.0,Ferramentas auxiliares para o software TransRate de avaliação e métricas de qualidade de montagens de transcriptoma.,"Comando principal: ""transrate <options>""",https://github.com/BlaxterLab/transrate-tools
+Trimmomatic,-,Ferramenta flexível de corte e limpeza de leituras FASTQ para remoção de adaptadores e leituras de baixa qualidade.,"Comando principal: ""trimmomatic <options>""",https://github.com/usadellab/Trimmomatic
+Velvet,1.2.09,Montador de genomas de novo projetado para leituras curtas de sequenciamento baseado em grafos de de Bruijn.,"Comandos principais: ""velveth"", ""velvetg""",https://github.com/dzerbino/velvet
+Wise2 (GeneWise),2.4.1-21,Pacote de software Wise2 para alinhamento inteligente de biosequências (ex: comparar proteína com genoma via GeneWise).,"Comando principal: ""genewise <options>""",https://www.ebi.ac.uk/goldman-srv/wise2/
+,,,,
+### AMBIENTES CONDA,,,,
+NanoFilt,,Ferramenta de filtragem e recorte para leituras de sequenciamento Oxford Nanopore e PacBio.,"Comando principal: ""NanoFilt <options>""",https://github.com/wdecoster/nanofilt
+Annotate (Env),,Ambiente/pacote dedicado para anotação funcional e estrutural de sequências genômicas.,Ambiente Conda para anotação de genomas,https://github.com/
+Antimicrobial (Env),,Conjunto de ferramentas para identificação de genes de resistência a antimicrobianos (AMR).,Ambiente Conda para prospecção de genes AMR,https://github.com/
+antiSMASH (Env),,Ambiente do antiSMASH para identificação e análise de clusters de genes biossintéticos de metabólitos secundários.,"Comando principal: ""antismash <options>""",https://github.com/antismash/antismash
+antiSMASH v7 (Env),,Ambiente contendo a versão 7 do antiSMASH para mineração de produtos naturais em genomas.,"Comando principal: ""antismash <options>""",https://github.com/antismash/antismash
+AutoDock Vina,,Ferramenta de acoplamento molecular (molecular docking) rápida e precisa para triagem virtual de ligantes.,"Comando principal: ""vina <options>""",https://github.com/ccsb-scripps/AutoDock-Vina
+BayeScan,,Programa para detecção de loci sob seleção natural a partir de dados de frequências alélicas usando métodos bayesianos.,"Comando principal: ""bayescan <options>""",http://cmpg.unibe.ch/software/bayescan/
+BiG-SLiCE,,Ferramenta de clustering e bioinformática de grande escala para análise de clusters biossintéticos de metabólitos.,"Comando principal: ""bigslice <options>""",https://github.com/medema-group/bigslice
+BiG-SLiCE v1 (Env),,Versão 1 da ferramenta BiG-SLiCE para agrupamento massivo de clusters genômicos de metabólitos secundários.,"Comando principal: ""bigslice <options>""",https://github.com/medema-group/bigslice
+Binning (Env),,Ambiente contendo ferramentas para agrupamento de contigs metagenômicos (metagenomic binning).,Ambiente Conda para binning de metagenomas,https://github.com/
+Biotools (Env),,Conjunto de utilitários e bibliotecas gerais de bioinformática em ambiente Conda.,Ambiente com ferramentas diversas de bioinformática,https://github.com/
+BlobTools,,"Ferramenta de análise visual e filtragem de contigs em montagens genômicas com base em GC, cobertura e taxonomia.","Comando principal: ""blobtools <options>""",https://github.com/CGAT-developers/blobtools
+BUSCO,,Benchmarking Universal Single-Copy Orthologs é uma ferramenta para avaliar a completude de montagens de genomas/transcriptomas.,"Comando principal: ""busco <options>""",https://gitlab.com/ezlab/busco
+CAFE 5,,Computational Analysis of gene Family Evolution (CAFE) estima taxas de ganho e perda de famílias de genes ao longo de árvores filogenéticas.,"Comando principal: ""cafe5 <options>""",https://github.com/hahnlab/CAFE5
+CONCOCT (Env),,Ambiente do CONCOCT para agrupamento (binning) de contigs metagenômicos usando frequências de k-meros e cobertura.,"Comando principal: ""concoct <options>""",https://github.com/BinPro/CONCOCT
+eggNOG-mapper,,eggNOG-mapper é uma ferramenta para anotação funcional rápida de sequências usando o banco de dados eggNOG.,"Comando principal: ""emapper.py <options>""",https://github.com/eggnogdb/eggnog-mapper
+fastcat,,Utilitário para concatenação e conversão de arquivos de dados de sequenciamento FASTQ e FASTA.,"Comando principal: ""fastcat <options>""",https://github.com/epi2me-labs/fastcat
+FASTX-Toolkit,,Coleção de ferramentas de linha de comando para pré-processamento de dados de sequenciamento FASTA/FASTQ.,"Comando principal: ""fastx_clipper"", ""fastx_trimmer""",http://hannonlab.cshl.edu/fastx_toolkit/
+Flye (Env),,"Ambiente do Flye, um montador de genomas de novo projetado para leituras longas (Nanopore / PacBio).","Comando principal: ""flye <options>""",https://github.com/fenderglass/Flye
+SSR-GBAS-GUI,,GUI/Ferramenta para análise de marcas de microssatélites (SSR) e associação genômica.,Interface gráfica / script de análise SSR,https://github.com/
+GenomeScope 2.0 (Env),,Ambiente Conda configurado com a versão 2 do GenomeScope para análise de perfis de k-meros.,"Comando principal: ""genomescope2 <options>""",https://github.com/tbenavi1/genomescope2.0
+GUIDANCE2,,Servidor e ferramenta para avaliação de confiabilidade e filtragem de posições não alinhadas em alinhamentos múltiplos.,"Comando principal: ""guidance <options>""",http://guidance.tau.ac.il/
+HERRO,,Ferramenta de correção de erros baseada em deep learning para leituras longas de sequenciamento Nanopore.,"Comando principal: ""herro <options>""",https://github.com/
+JupyterHub (Env),,Ambiente Python configurado para suporte e execução de serviços JupyterHub no servidor.,Ambiente Jupyter Notebook / Hub,https://jupyter.org/
+LongStitch,,Pipeline de scaffolding de genomas que combina leituras longas (Nanopore/PacBio) para fechar lacunas de montagem.,"Comando principal: ""longstitch <options>""",https://github.com/bcgsc/longstitch
+LongStitch (Env),,Ambiente Conda com dependências instaladas para execução do pipeline LongStitch.,"Comando principal: ""longstitch <options>""",https://github.com/bcgsc/longstitch
+medaka,,Ferramenta da Oxford Nanopore para criação de consenso e polimento de montagens genômicas usando dados de redes neurais.,"Comando principal: ""medaka <options>""",https://github.com/nanoporetech/medaka
+Metagenomics Training (Env),,Ambiente pedagógico configurado com ferramentas e scripts para treinamento e oficinas de metagenômica.,Ambiente de treinamento em metagenômica,https://github.com/
+metaMDBG,,Montador de metagenomas ultra-eficiente para leituras longas e de alta precisão (PacBio HiFi / Nanopore duplex).,"Comando principal: ""metaMDBG <options>""",https://github.com/al42and/metaMDBG
+MITOS2,,Ferramenta de anotação de genomas mitocondriais metazoários usando modelos de covariância e pesquisas de estrutura.,"Comando principal: ""mitos2 <options>""",https://gitlab.com/Bernt/MITOS
+MitoZ,,"Toolkit para montagem, anotação e controle de qualidade de genomas mitocondriais a partir de sequenciamento genômico.","Comando principal: ""mitoz <options>""",https://github.com/lincong/MitoZ
+NextDenovo (Env),,"Ambiente do NextDenovo, um montador de genomas de novo baseado em leituras longas sem correção prévia.","Comando principal: ""nextDenovo <options>""",https://github.com/Nextomics/NextDenovo
+Nextstrain,,Ferramenta de código aberto para rastreamento em tempo real da evolução de patógenos e análise filodinâmica.,"Comando principal: ""nextstrain <options>""",https://github.com/nextstrain/cli
+ntLink (Env),,Ambiente da ferramenta ntLink para scaffolding leve e montagem de genomas usando k-meros de leituras longas.,"Comando principal: ""ntlink <options>""",https://github.com/bcgsc/ntLink
+Porechop ABI (Env),,Ambiente do Porechop ABI para corte e remoção de adaptadores de sequenciamento em leituras Oxford Nanopore.,"Comando principal: ""porechop_abi <options>""",https://github.com/bonnd/porechop_abi
+Pychopper,,"Ferramenta para identificação, orientação e trimming de leituras completas de cDNA (Full-Length cDNA) Oxford Nanopore.","Comando principal: ""pychopper <options>""",https://github.com/epi2me-labs/pychopper
+quickmerge,,Programa para fusão e integração de múltiplas montagens genômicas de novo a fim de aumentar a contiguidade.,"Comando principal: ""quickmerge <options>""",https://github.com/mahulchak/quickmerge
+Redundans,,"Pipeline para redução de redundância heterozigótica, scaffolding e fechamento de gaps em montagens genômicas.","Comando principal: ""redundans.py <options>""",https://github.com/Gabaldonlab/redundans
+RNA-Seq Funbios (Env),,"Ambiente com ferramentas para análise de dados de RNA-Seq (ex: contagem, alinhamento e expressão diferencial).",Ambiente Conda de análise de RNA-Seq,https://github.com/
+SeqKit,,Toolkit extremamente rápido de linha de comando para manipulação e estatísticas de arquivos FASTA e FASTQ.,"Comando principal: ""seqkit <command>""",https://github.com/shenwei356/seqkit
+Smudgeplot,,Ferramenta para inferência da ploidia e estrutura genômica de um organismo a partir de contagens de k-meros.,"Comando principal: ""smudgeplot.py <options>""",https://github.com/KamilS Jaron/smudgeplot
+Snakemake,,Ferramenta de gerenciamento de fluxos de trabalho (workflows) e automação de pipelines científicos reproduzíveis.,"Comando principal: ""snakemake <options>""",https://github.com/snakemake/snakemake
+trimAl,,Ferramenta automatizada para remoção e limpeza de regiões mal alinhadas e ruidosas em alinhamentos múltiplos.,"Comando principal: ""trimal <options>""",https://github.com/inab/trimal
+Kraken 2 (v2.17.1),,Sistema de classificação taxonômica ultrarrápido que atribui rótulos taxonômicos a sequências usando k-meros.,"Comando principal: ""kraken2 <options>""",https://github.com/DerrickWood/kraken2
