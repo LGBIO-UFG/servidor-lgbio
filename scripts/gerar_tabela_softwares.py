@@ -8,18 +8,24 @@ conda_csv = "docs/assets/data/conda.csv"
 md_file = "docs/softwares/index_softwares.md"
 
 
-def gerar_tabela(caminho_csv):
+def gerar_tabela(caminho_csv, eh_conda=False):
     tabela = []
-    tabela.append("| Programa | Versão | Descrição | Repositório |")
+    
+    # Define a chave da coluna e o cabeçalho da tabela dinamicamente
+    coluna_nome = "ambiente" if eh_conda else "programa"
+    titulo_coluna = "Ambiente" if eh_conda else "Programa"
+    
+    tabela.append(f"| {titulo_coluna} | Versão | Descrição | Repositório |")
     tabela.append("|----------|:------:|-----------|:-----------:|")
 
     with open(caminho_csv, mode="r", encoding="utf-8") as file:
         reader = csv.DictReader(file)
         for row in reader:
-            programa = row.get("programa", "").strip()
+            # Busca pelo nome da coluna ('ambiente' ou 'programa'), com fallback seguro
+            item_nome = row.get(coluna_nome, "").strip() or row.get("programa", "").strip() or row.get("ambiente", "").strip()
 
             # Ignora linhas vazias ou títulos de seção soltos
-            if not programa or "###" in programa:
+            if not item_nome or "###" in item_nome:
                 continue
 
             versao = row.get("versao", "").strip() or "-"
@@ -35,15 +41,15 @@ def gerar_tabela(caminho_csv):
                 repositorio = "-"
 
             tabela.append(
-                f"| **{programa}** | {versao} | {descricao} | {repositorio} |"
+                f"| **{item_nome}** | {versao} | {descricao} | {repositorio} |"
             )
 
     return "\n".join(tabela)
 
 
 # Gera o conteúdo de ambas as tabelas
-tabela_softwares = gerar_tabela(softwares_csv)
-tabela_conda = gerar_tabela(conda_csv)
+tabela_softwares = gerar_tabela(softwares_csv, eh_conda=False)
+tabela_conda = gerar_tabela(conda_csv, eh_conda=True)
 
 # Monta o arquivo Markdown completo
 conteudo = f"""# __Softwares__
