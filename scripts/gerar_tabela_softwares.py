@@ -60,6 +60,14 @@ Nesta página estão listados os softwares atualmente disponíveis globalmente n
 
 # __Ambientes Conda__
 {tabela_conda}
+
+<p align="right">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+</p>
+
+<p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
+© 2026 • LGBio • Universidade Federal de Goiás
+</p>
 """
 
 # Salva o arquivo .md final em UTF-8
