@@ -1,0 +1,45 @@
+programa,versao,descricao,observação,repositorio
+NanoFilt,,Ferramenta de filtragem e recorte para leituras de sequenciamento Oxford Nanopore e PacBio.,"Comando principal: ""NanoFilt <options>""",https://github.com/wdecoster/nanofilt
+Annotate (Env),,Ambiente/pacote dedicado para anotação funcional e estrutural de sequências genômicas.,Ambiente Conda para anotação de genomas,https://github.com/
+Antimicrobial (Env),,Conjunto de ferramentas para identificação de genes de resistência a antimicrobianos (AMR).,Ambiente Conda para prospecção de genes AMR,https://github.com/
+antiSMASH (Env),,Ambiente do antiSMASH para identificação e análise de clusters de genes biossintéticos de metabólitos secundários.,"Comando principal: ""antismash <options>""",https://github.com/antismash/antismash
+antiSMASH v7 (Env),,Ambiente contendo a versão 7 do antiSMASH para mineração de produtos naturais em genomas.,"Comando principal: ""antismash <options>""",https://github.com/antismash/antismash
+AutoDock Vina,,Ferramenta de acoplamento molecular (molecular docking) rápida e precisa para triagem virtual de ligantes.,"Comando principal: ""vina <options>""",https://github.com/ccsb-scripps/AutoDock-Vina
+BayeScan,,Programa para detecção de loci sob seleção natural a partir de dados de frequências alélicas usando métodos bayesianos.,"Comando principal: ""bayescan <options>""",http://cmpg.unibe.ch/software/bayescan/
+BiG-SLiCE,,Ferramenta de clustering e bioinformática de grande escala para análise de clusters biossintéticos de metabólitos.,"Comando principal: ""bigslice <options>""",https://github.com/medema-group/bigslice
+BiG-SLiCE v1 (Env),,Versão 1 da ferramenta BiG-SLiCE para agrupamento massivo de clusters genômicos de metabólitos secundários.,"Comando principal: ""bigslice <options>""",https://github.com/medema-group/bigslice
+Binning (Env),,Ambiente contendo ferramentas para agrupamento de contigs metagenômicos (metagenomic binning).,Ambiente Conda para binning de metagenomas,https://github.com/
+Biotools (Env),,Conjunto de utilitários e bibliotecas gerais de bioinformática em ambiente Conda.,Ambiente com ferramentas diversas de bioinformática,https://github.com/
+BlobTools,,"Ferramenta de análise visual e filtragem de contigs em montagens genômicas com base em GC, cobertura e taxonomia.","Comando principal: ""blobtools <options>""",https://github.com/CGAT-developers/blobtools
+BUSCO,,Benchmarking Universal Single-Copy Orthologs é uma ferramenta para avaliar a completude de montagens de genomas/transcriptomas.,"Comando principal: ""busco <options>""",https://gitlab.com/ezlab/busco
+CAFE 5,,Computational Analysis of gene Family Evolution (CAFE) estima taxas de ganho e perda de famílias de genes ao longo de árvores filogenéticas.,"Comando principal: ""cafe5 <options>""",https://github.com/hahnlab/CAFE5
+CONCOCT (Env),,Ambiente do CONCOCT para agrupamento (binning) de contigs metagenômicos usando frequências de k-meros e cobertura.,"Comando principal: ""concoct <options>""",https://github.com/BinPro/CONCOCT
+eggNOG-mapper,,eggNOG-mapper é uma ferramenta para anotação funcional rápida de sequências usando o banco de dados eggNOG.,"Comando principal: ""emapper.py <options>""",https://github.com/eggnogdb/eggnog-mapper
+fastcat,,Utilitário para concatenação e conversão de arquivos de dados de sequenciamento FASTQ e FASTA.,"Comando principal: ""fastcat <options>""",https://github.com/epi2me-labs/fastcat
+FASTX-Toolkit,,Coleção de ferramentas de linha de comando para pré-processamento de dados de sequenciamento FASTA/FASTQ.,"Comando principal: ""fastx_clipper"", ""fastx_trimmer""",http://hannonlab.cshl.edu/fastx_toolkit/
+Flye (Env),,"Ambiente do Flye, um montador de genomas de novo projetado para leituras longas (Nanopore / PacBio).","Comando principal: ""flye <options>""",https://github.com/fenderglass/Flye
+SSR-GBAS-GUI,,GUI/Ferramenta para análise de marcas de microssatélites (SSR) e associação genômica.,Interface gráfica / script de análise SSR,https://github.com/
+GenomeScope 2.0 (Env),,Ambiente Conda configurado com a versão 2 do GenomeScope para análise de perfis de k-meros.,"Comando principal: ""genomescope2 <options>""",https://github.com/tbenavi1/genomescope2.0
+GUIDANCE2,,Servidor e ferramenta para avaliação de confiabilidade e filtragem de posições não alinhadas em alinhamentos múltiplos.,"Comando principal: ""guidance <options>""",http://guidance.tau.ac.il/
+HERRO,,Ferramenta de correção de erros baseada em deep learning para leituras longas de sequenciamento Nanopore.,"Comando principal: ""herro <options>""",https://github.com/
+JupyterHub (Env),,Ambiente Python configurado para suporte e execução de serviços JupyterHub no servidor.,Ambiente Jupyter Notebook / Hub,https://jupyter.org/
+LongStitch,,Pipeline de scaffolding de genomas que combina leituras longas (Nanopore/PacBio) para fechar lacunas de montagem.,"Comando principal: ""longstitch <options>""",https://github.com/bcgsc/longstitch
+LongStitch (Env),,Ambiente Conda com dependências instaladas para execução do pipeline LongStitch.,"Comando principal: ""longstitch <options>""",https://github.com/bcgsc/longstitch
+medaka,,Ferramenta da Oxford Nanopore para criação de consenso e polimento de montagens genômicas usando dados de redes neurais.,"Comando principal: ""medaka <options>""",https://github.com/nanoporetech/medaka
+Metagenomics Training (Env),,Ambiente pedagógico configurado com ferramentas e scripts para treinamento e oficinas de metagenômica.,Ambiente de treinamento em metagenômica,https://github.com/
+metaMDBG,,Montador de metagenomas ultra-eficiente para leituras longas e de alta precisão (PacBio HiFi / Nanopore duplex).,"Comando principal: ""metaMDBG <options>""",https://github.com/al42and/metaMDBG
+MITOS2,,Ferramenta de anotação de genomas mitocondriais metazoários usando modelos de covariância e pesquisas de estrutura.,"Comando principal: ""mitos2 <options>""",https://gitlab.com/Bernt/MITOS
+MitoZ,,"Toolkit para montagem, anotação e controle de qualidade de genomas mitocondriais a partir de sequenciamento genômico.","Comando principal: ""mitoz <options>""",https://github.com/lincong/MitoZ
+NextDenovo (Env),,"Ambiente do NextDenovo, um montador de genomas de novo baseado em leituras longas sem correção prévia.","Comando principal: ""nextDenovo <options>""",https://github.com/Nextomics/NextDenovo
+Nextstrain,,Ferramenta de código aberto para rastreamento em tempo real da evolução de patógenos e análise filodinâmica.,"Comando principal: ""nextstrain <options>""",https://github.com/nextstrain/cli
+ntLink (Env),,Ambiente da ferramenta ntLink para scaffolding leve e montagem de genomas usando k-meros de leituras longas.,"Comando principal: ""ntlink <options>""",https://github.com/bcgsc/ntLink
+Porechop ABI (Env),,Ambiente do Porechop ABI para corte e remoção de adaptadores de sequenciamento em leituras Oxford Nanopore.,"Comando principal: ""porechop_abi <options>""",https://github.com/bonnd/porechop_abi
+Pychopper,,"Ferramenta para identificação, orientação e trimming de leituras completas de cDNA (Full-Length cDNA) Oxford Nanopore.","Comando principal: ""pychopper <options>""",https://github.com/epi2me-labs/pychopper
+quickmerge,,Programa para fusão e integração de múltiplas montagens genômicas de novo a fim de aumentar a contiguidade.,"Comando principal: ""quickmerge <options>""",https://github.com/mahulchak/quickmerge
+Redundans,,"Pipeline para redução de redundância heterozigótica, scaffolding e fechamento de gaps em montagens genômicas.","Comando principal: ""redundans.py <options>""",https://github.com/Gabaldonlab/redundans
+RNA-Seq Funbios (Env),,"Ambiente com ferramentas para análise de dados de RNA-Seq (ex: contagem, alinhamento e expressão diferencial).",Ambiente Conda de análise de RNA-Seq,https://github.com/
+SeqKit,,Toolkit extremamente rápido de linha de comando para manipulação e estatísticas de arquivos FASTA e FASTQ.,"Comando principal: ""seqkit <command>""",https://github.com/shenwei356/seqkit
+Smudgeplot,,Ferramenta para inferência da ploidia e estrutura genômica de um organismo a partir de contagens de k-meros.,"Comando principal: ""smudgeplot.py <options>""",https://github.com/KamilS Jaron/smudgeplot
+Snakemake,,Ferramenta de gerenciamento de fluxos de trabalho (workflows) e automação de pipelines científicos reproduzíveis.,"Comando principal: ""snakemake <options>""",https://github.com/snakemake/snakemake
+trimAl,,Ferramenta automatizada para remoção e limpeza de regiões mal alinhadas e ruidosas em alinhamentos múltiplos.,"Comando principal: ""trimal <options>""",https://github.com/inab/trimal
+Kraken 2 (v2.17.1),,Sistema de classificação taxonômica ultrarrápido que atribui rótulos taxonômicos a sequências usando k-meros.,"Comando principal: ""kraken2 <options>""",https://github.com/DerrickWood/kraken2

@@ -62,7 +62,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Lista de programas e pacotes disponíveis para utilização dos usuários. 
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](softwares/index_softwares.md)
+    :octicons-arrow-right-24: [<u>Acessar</u>](index_softwares.md)
 
 -   :material-database:{.lg .middle } __Bancos de Dados__
 
