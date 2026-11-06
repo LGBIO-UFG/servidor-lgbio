@@ -9,6 +9,7 @@ BEDtools,2.29.1,"Conjunto poderoso de ferramentas para manipulação e análise 
 Bowtie 2,2.4.5,Ferramenta ultrafasta e eficiente em memória para alinhamento de sequências de DNA curtas a genomas de referência.,"Comando principal: ""bowtie2 <options>""",https://github.com/BenLangmead/bowtie2
 Bowtie,1.2.3,Alinhador ultrafast e de baixo consumo de memória para leituras curtas de sequências de DNA.,"Comando principal: ""bowtie <options>""",https://github.com/BenLangmead/bowtie
 BWA,0.7.17-r1188,Burrows-Wheeler Aligner (BWA) é um pacote de software para mapeamento de sequências de DNA contra genomas de referência de grande porte.,"Comando principal: ""bwa <options>""",https://github.com/lh3/bwa
+BUSCO,6.0.0,,,
 cdbfasta,0.99,Ferramenta para indexação e recuperação rápida de registros de arquivos FASTA e FASTQ.,"Comando principal: ""cdbfasta <options>""",https://github.com/gpertea/cdbfasta
 Clustal Omega,1.2.4,"Clustal Omega é uma ferramenta de alinhamento múltiplo de sequências (MSA) de alta velocidade para DNA, RNA e proteínas.","Comando principal: ""clustalo <options>""",https://www.ebi.ac.uk/jdispatcher/msa/clustalo
 ClustalW,2.1,Ferramenta clássica para alinhamento múltiplo de sequências de nucleotídeos ou aminoácidos.,"Comando principal: ""clustalw <options>""",https://www.genome.jp/tools-bin/clustalw
