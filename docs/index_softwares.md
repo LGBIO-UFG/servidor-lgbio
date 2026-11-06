@@ -135,3 +135,11 @@ Nesta página estão listados os softwares atualmente disponíveis globalmente n
 | **Snakemake** | - | Ferramenta de gerenciamento de fluxos de trabalho (workflows) e automação de pipelines científicos reproduzíveis. | [:material-github: Link](https://github.com/snakemake/snakemake){ target="_blank" rel="noopener" } |
 | **trimAl** | - | Ferramenta automatizada para remoção e limpeza de regiões mal alinhadas e ruidosas em alinhamentos múltiplos. | [:material-github: Link](https://github.com/inab/trimal){ target="_blank" rel="noopener" } |
 | **Kraken 2 (v2.17.1)** | - | Sistema de classificação taxonômica ultrarrápido que atribui rótulos taxonômicos a sequências usando k-meros. | [:material-github: Link](https://github.com/DerrickWood/kraken2){ target="_blank" rel="noopener" } |
+
+<p align="right">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+</p>
+
+<p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
+© 2026 • LGBio • Universidade Federal de Goiás
+</p>
