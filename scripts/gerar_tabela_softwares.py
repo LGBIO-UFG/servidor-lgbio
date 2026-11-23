@@ -5,7 +5,7 @@ softwares_csv = "docs/assets/data/softwares.csv"
 conda_csv = "docs/assets/data/conda.csv"
 
 # Arquivo de saída Markdown
-md_file = "docs/softwares/index_softwares.md"
+md_file = "docs/index_softwares.md"
 
 
 def gerar_tabela(caminho_csv, eh_conda=False):
