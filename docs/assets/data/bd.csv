@@ -1,0 +1,11 @@
+banco,data,descricao,observação,repositorio
+BLAST – core_nt,,,"Comando principal: ""genewise <options>""",
+BLAST – nr ,,,,
+BLAST – nt,,,,
+BLAST – refseq_protein,,,,
+CheckM2,,,,
+GTDB-Tk,,,,
+Interpro Scan,,,,
+EggNog,,,,
+Diamond,,,,
+Unite,,,,

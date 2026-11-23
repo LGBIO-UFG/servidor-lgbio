@@ -14,7 +14,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para cadastro de novos usuários.
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
+    :material-hand-pointing-right: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSdaC-oZL2wf-Owz-EoLO1Wd2pPqDMe_FmZmfysz5CVPsEcLJQ/viewform?usp=header){ target="_blank" rel="noopener"}
 
 -   :material-text-box-edit-outline:{ .lg .middle } __Recadastro__
 
@@ -22,7 +22,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para recadastro de usuários ativos. 
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSeZxk0WP0mR7gRM2IbDLFBFelFPWnYIxfsUsHgtQJLfUeygTQ/viewform?usp=dialog){ target="_blank" rel="noopener"}
+    :material-hand-pointing-right: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSeZxk0WP0mR7gRM2IbDLFBFelFPWnYIxfsUsHgtQJLfUeygTQ/viewform?usp=dialog){ target="_blank" rel="noopener"}
 
 -   :material-text-box-edit-outline:{ .lg .middle } __Instalação de Programas__
 
@@ -30,7 +30,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para solicitação de instalação de novos programas. 
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfZ5zsl_E3vpWx2ful0X4_U46UMaTYbuObP8NPsoOYto2CPVA/viewform?usp=dialog){ target="_blank" rel="noopener"}
+    :material-hand-pointing-right: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfZ5zsl_E3vpWx2ful0X4_U46UMaTYbuObP8NPsoOYto2CPVA/viewform?usp=dialog){ target="_blank" rel="noopener"}
 
 -   :material-text-box-edit-outline:{ .lg .middle } __Criação de Bancos de Dados__
 
@@ -38,7 +38,23 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Formulário para solicitação de download ou criação de bancos de dados públicos.
     
-    :octicons-arrow-right-24: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfQYC5F2ncerhxp2n8aAtJei2KxS7Jf5iSQsgDsJxbbWRm0-A/viewform?usp=dialog){ target="_blank" rel="noopener"}
+    :material-hand-pointing-right: [<u>Acessar</u>](https://docs.google.com/forms/d/e/1FAIpQLSfQYC5F2ncerhxp2n8aAtJei2KxS7Jf5iSQsgDsJxbbWRm0-A/viewform?usp=dialog){ target="_blank" rel="noopener"}
+
+-   :material-shield-check:{.lg .middle } __Boas Práticas__
+
+    ---
+
+    Primeira vez no servidor? Você __PRECISA__ começar lendo o nosso manual de boas práticas. 
+
+    :material-hand-pointing-right: [<u>Acessar</u>](index_boas_praticas.md)
+
+-   :material-baby-face-outline:{ .lg .middle } __Primeiros Passos no Servidor__
+
+    ---
+
+    Aqui você aprenderá a dar os primeiros passos para acessar o Servidor do LGBIO.  
+
+    :material-hand-pointing-right: [<u>Acessar</u>](index_primeiro_acesso.md)
 
 -   :material-book-open-variant:{ .lg .middle } __Manual do Usuário__
 
@@ -46,15 +62,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Tudo o que você precisa para começar a usar o terminal com confiança.  
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](manual/index_manual.md)
-
--   :material-shield-check:{.lg .middle } __Boas Práticas__
-
-    ---
-
-    Diretrizes para uso eficiente do servidor.
-
-    :octicons-arrow-right-24: [<u>Acessar</u>](boas_praticas/index_boas_praticas.md)
+    :material-hand-pointing-right: [<u>Acessar</u>](index_manual.md)
 
 -   :material-package-variant:{.lg .middle } __Softwares__
 
@@ -62,7 +70,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Lista de programas e pacotes disponíveis para utilização dos usuários. 
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](index_softwares.md)
+    :material-hand-pointing-right: [<u>Acessar</u>](index_softwares.md)
 
 -   :material-database:{.lg .middle } __Bancos de Dados__
 
@@ -70,7 +78,7 @@ Bem-vindo(a) à Central do Servidor do LGBio! Este portal foi desenvolvido para 
 
     Lista de bancos de dados disponíveis para utilização dos usuários. 
 
-    :octicons-arrow-right-24: [<u>Acessar</u>](bancos_de_dados/index_bancos_de_dados.md)
+    :material-hand-pointing-right: [<u>Acessar</u>](index_bancos_de_dados.md)
 
 </div>
 
