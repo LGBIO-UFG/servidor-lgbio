@@ -23,7 +23,7 @@ __2) Uso das threads e da memória__
 - Sempre verifique o estado de uso do servidor. Se perceber que o servidor está usando o *swap*, por exemplo, não executar novas tarefas e reportar a equipe de administração.
 
 <p align="center">
-    <img src="/assets/images/htop.png" alt="htop" width="1000">
+    <img src="assets/images/htop.png" alt="htop" width="1000">
 </p>
 
 - Ao desenvolver ou executar tarefas no servidor, **evite o uso excessivo de threads e memória**, o que pode levar à sobrecarga do servidor e a problemas de desempenho.
@@ -52,7 +52,7 @@ __4) Agradecimentos em trabalhos__
 :material-chevron-double-right: [<u>Seguir para Primeiros Passos no Servidor</u>](index_primeiro_acesso.md)
 
 <p align="right">
-    <img src="/assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
 </p>
 
 <p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
