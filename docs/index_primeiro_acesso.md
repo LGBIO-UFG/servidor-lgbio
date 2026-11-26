@@ -30,9 +30,9 @@ ssh seu_login@lg.bio.br -p 53846
 !!! info "Autenticidade do host"
     No seu primeiro acesso, o sistema operacional pode perguntar se você confia e quer seguir com a conexão ao Servidor (exemplo abaixo). Caso isso ocorra, digite **“yes”** e tecle **enter**.
 
-<p align="center">
-    <img src="assets/images/fig.png" alt="Figura" width="500">
-</p>
+    <p align="center">
+        <img src="assets/images/fig.png" alt="Figura" width="500">
+    </p>
 
 ---
 
