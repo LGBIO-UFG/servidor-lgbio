@@ -62,7 +62,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 ```
 
 <p align="center">
-    <img src="../assets/images/fig3.png" alt="Figura 3" width="500">
+    <img src="assets/images/fig3.png" alt="Figura 3" width="500">
 </p>
 
 <p style="text-align: center; font-size: 1.0em; color: var(--md-default-fg-color--light);">
@@ -76,7 +76,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 </p>
 
 <p align="center">
-    <img src="../assets/images/lua.jpeg" alt="lua" width="600">
+    <img src="assets/images/lua.jpeg" alt="lua" width="600">
 </p>
 
 <br>
@@ -84,7 +84,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 :material-chevron-double-right: [<u>Seguir para Manual do Usuário</u>](index_manual.md)
 
 <p align="right">
-    <img src="../assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
 </p>
 
 <p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
