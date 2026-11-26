@@ -20,7 +20,7 @@ ssh seu_login@lg.bio.br -p 53846
 ```
 
 <p align="center">
-    <img src="/assets/images/fig1.png" alt="Figura 1" width="500">
+    <img src="assets/images/fig1.png" alt="Figura 1" width="500">
 </p>
 
 <p style="text-align: center; font-size: 1.0em; color: var(--md-default-fg-color--light);">
@@ -30,7 +30,7 @@ ssh seu_login@lg.bio.br -p 53846
 !!! info "Autenticidade do host"
     No seu primeiro acesso, o sistema operacional pode perguntar se você confia e quer seguir com a conexão ao Servidor (exemplo abaixo). Caso isso ocorra, digite **“yes”** e tecle **enter**.
     <p align="center">
-        <img src="/assets/images/fig.png" alt="Figura" width="500">
+        <img src="assets/images/fig.png" alt="Figura" width="500">
     </p>
 
 ---
@@ -38,7 +38,7 @@ ssh seu_login@lg.bio.br -p 53846
 **:material-numeric-3-circle: No primeiro acesso, o sistema irá solicitar que você redefina uma nova senha de acesso.** 
 
 <p align="center">
-    <img src="/assets/images/fig2.png" alt="Figura 2" width="500">
+    <img src="assets/images/fig2.png" alt="Figura 2" width="500">
 </p>
 
 <p style="text-align: center; font-size: 1.0em; color: var(--md-default-fg-color--light);">
@@ -61,7 +61,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 ```
 
 <p align="center">
-    <img src="/assets/images/fig3.png" alt="Figura 3" width="500">
+    <img src="assets/images/fig3.png" alt="Figura 3" width="500">
 </p>
 
 <p style="text-align: center; font-size: 1.0em; color: var(--md-default-fg-color--light);">
@@ -75,7 +75,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 </p>
 
 <p align="center">
-    <img src="/assets/images/lua.jpeg" alt="lua" width="600">
+    <img src="assets/images/lua.jpeg" alt="lua" width="600">
 </p>
 
 <br>
@@ -83,7 +83,7 @@ seulogin@lgbio-ProLiant-DL580-Gen10:~$
 :material-chevron-double-right: [<u>Seguir para Manual do Usuário</u>](index_manual.md)
 
 <p align="right">
-    <img src="/assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
+    <img src="assets/images/eecbio_menor.png" alt="INCT EECBio" width="150">
 </p>
 
 <p style="text-align: center; font-size: 0.8em; color: var(--md-default-fg-color--light);">
