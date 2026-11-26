@@ -60,7 +60,6 @@ ssh seu_login@lg.bio.br -p 53846
 ```bash
 seulogin@lgbio-ProLiant-DL580-Gen10:~$
 ```
-
 <p align="center">
     <img src="assets/images/fig3.png" alt="Figura 3" width="500">
 </p>
